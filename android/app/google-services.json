@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189360930225",
+    "project_id": "oculos-577ed",
+    "storage_bucket": "oculos-577ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189360930225:android:2d4b5bc1c2a03bcb191190",
+        "android_client_info": {
+          "package_name": "com.mycompany.oculoseleitura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGXrhoTj9QwLd9vsC-RRzYkfEE4Lqy990"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
